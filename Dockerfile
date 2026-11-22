@@ -1,0 +1,4 @@
+COPY
+WORKDIR
+
+CMD []
