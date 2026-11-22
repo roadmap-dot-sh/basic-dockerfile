@@ -1,4 +1,3 @@
-COPY
-WORKDIR
+FROM alpine:latest
 
-CMD []
+CMD ["sh", "-c", "echo 'Hello, Captain!'"]
